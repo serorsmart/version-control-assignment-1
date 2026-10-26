@@ -1,1 +1,2 @@
 Git tracks changes to files through commits.
+Staging selects the changes to include in the next commit.
